@@ -21,9 +21,7 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<details>
-<summary><b>Mobile</b></summary>
-<br>
+#### 📱 Mobile
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
@@ -33,11 +31,8 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
-</details>
 
-<details>
-<summary><b>Frontend</b></summary>
-<br>
+#### 🎨 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -46,21 +41,15 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </div>
-</details>
 
-<details>
-<summary><b>Backend</b></summary>
-<br>
+#### ⚙️ Backend
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
-</details>
 
-<details>
-<summary><b>Ferramentas</b></summary>
-<br>
+#### 🛠️ Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -68,7 +57,6 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Easy%20Panel-FF6B6B?style=for-the-badge&logo=easypanel&logoColor=white" alt="Easy Panel"/>
   <img src="https://img.shields.io/badge/Hostinger-2E4364?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
 </div>
-</details>
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
@@ -77,63 +65,45 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
 
 ### 💼 Experiência Profissional
 
-<details>
-<summary><b>Inventione (1 ano - Atual)</b></summary>
-<br>
+#### Inventione (1 ano - Atual)
 **Desenvolvedor FullStack Júnior (Angular, .NET e Flutter)**
 - Liderança do departamento de desenvolvimento
 - Desenvolvimento de produtos como Filazero, CloudMidia, Filazero Food, Filazero Checkout
 - Gestão de equipe e projetos
 - Responsável por 1 desenvolvedor Júnior
-</details>
 
-<details>
-<summary><b>Receba Dital (6 meses - Atual)</b></summary>
-<br>
+#### Receba Dital (6 meses - Atual)
 **Desenvolvedor FullStack Júnior (Angular, .NET)**
 - Desenvolvimento de aplicação de cobrança
 - Sistema de notificações (email, redes sociais, SMS, push)
 - Design de projeto e modelagem de banco de dados
 - Experiência com APIs RESTful e integrações
-</details>
 
-<details>
-<summary><b>Houseasy (1 ano e 4 meses)</b></summary>
-<br>
+#### Houseasy (1 ano e 4 meses)
 **Desenvolvedor Mobile Flutter Júnior III**
 - Desenvolvimento de apps para automação residencial
 - Integração com IoT (MQTT, Raspberry Pi, ESP32, Arduino)
 - Desenvolvimento de skills para Alexa
 - Experiência com sistemas embarcados
-</details>
 
-<details>
-<summary><b>Perto Network (2 meses)</b></summary>
-<br>
+#### Perto Network (2 meses)
 **Desenvolvedor Mobile Flutter Pleno**
 - Responsável pela criação de projeto
 - Transferência de conhecimento em Flutter para a equipe
 - Desenvolvimento rápido e eficiente
-</details>
 
-<details>
-<summary><b>MTM Tecnologia (9 meses)</b></summary>
-<br>
+#### MTM Tecnologia (9 meses)
 **Desenvolvedor Mobile Android e iOS**
 - Desenvolvimento nativo Android e iOS
 - Publicação de apps nas lojas
 - Aprendizado em flavors
 - Resolução de bugs e otimizações
-</details>
 
-<details>
-<summary><b>GrappeTechnology (11 meses)</b></summary>
-<br>
+#### GrappeTechnology (11 meses)
 **Desenvolvedor Mobile Flutter Júnior**
 - Primeira experiência com Flutter e mercado de trabalho
 - Desenvolvimento de CRM com Frappe
 - Projeto adquirido pela MTM
-</details>
 
 ### 🌟 Diferenciais
 - Experiência com Flavors (Android, iOS, Flutter)
