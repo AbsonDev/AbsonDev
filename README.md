@@ -1,5 +1,7 @@
+# 👋 Olá, eu sou Abson Dutra Galvão
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Olá,+eu+sou+Abson+Dutra+Galvão;Desenvolvedor+Full+Stack+%26+Mobile;Pai+da+Aurora+%26+Marido+da+Maria+Luiza" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Full+Stack+%26+Mobile;Pai+da+Aurora+%26+Marido+da+Maria+Luiza" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,23 +41,15 @@
 
 <br>
 
-<details>
-<summary><b>💻 Sobre Mim</b></summary>
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+apaixonado+por+programação+e+tecnologia+desde+criança;Com+apenas+21+anos+e+5+anos+de+experiência+em+desenvolvimento+de+software;Pai+orgulhoso+da+Aurora+e+casado+com+a+maravilhosa+Maria+Luiza" alt="About Me" />
-</div>
-</details>
+## 💻 Sobre Mim
 
-<br>
+Desenvolvedor apaixonado por programação e tecnologia desde criança, inspirado pelo meu pai, um dos primeiros programadores do Brasil. Com apenas 21 anos e 5 anos de experiência em desenvolvimento de software, iniciando minha jornada aos 16 anos.
 
-<details>
-<summary><b>🛠️ Tecnologias e Ferramentas</b></summary>
-<br>
+Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha maior inspiração e motivação para crescer profissionalmente. Juntos, enfrentamos o desafio de recomeçar em outro estado, apenas com coragem, nossa filha, 5 mil reais e um sonho. Hoje, moro em Aracaju há 1 ano, sempre buscando crescimento pessoal e profissional para proporcionar o melhor para minha família.
 
-<details>
-<summary><b>📱 Mobile</b></summary>
-<br>
+## 🛠️ Tecnologias e Ferramentas
+
+### 📱 Mobile
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
@@ -65,11 +59,8 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
-</details>
 
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<br>
+### 🎨 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -78,21 +69,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </div>
-</details>
 
-<details>
-<summary><b>⚙️ Backend</b></summary>
-<br>
+### ⚙️ Backend
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
-</details>
 
-<details>
-<summary><b>🛠️ Ferramentas</b></summary>
-<br>
+### 🛠️ Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -100,150 +85,79 @@
   <img src="https://img.shields.io/badge/Easy%20Panel-FF6B6B?style=for-the-badge&logo=easypanel&logoColor=white" alt="Easy Panel"/>
   <img src="https://img.shields.io/badge/Hostinger-2E4364?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
 </div>
-</details>
-</details>
 
-<br>
+## 💼 Experiência Profissional
 
-<details>
-<summary><b>💼 Experiência Profissional</b></summary>
-<br>
-
-<details>
-<summary><b>🏢 Inventione (1 ano - Atual)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20FullStack%20Júnior-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Angular%20.NET%20Flutter-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 Inventione (1 ano - Atual)
+**Desenvolvedor FullStack Júnior (Angular, .NET e Flutter)**
 - Liderança do departamento de desenvolvimento
 - Desenvolvimento de produtos como Filazero, CloudMidia, Filazero Food, Filazero Checkout
 - Gestão de equipe e projetos
 - Responsável por 1 desenvolvedor Júnior
-</details>
 
-<details>
-<summary><b>🏢 Receba Dital (6 meses - Atual)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20FullStack%20Júnior-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Angular%20.NET-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 Receba Dital (6 meses - Atual)
+**Desenvolvedor FullStack Júnior (Angular, .NET)**
 - Desenvolvimento de aplicação de cobrança
 - Sistema de notificações (email, redes sociais, SMS, push)
 - Design de projeto e modelagem de banco de dados
 - Experiência com APIs RESTful e integrações
-</details>
 
-<details>
-<summary><b>🏢 Houseasy (1 ano e 4 meses)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Mobile%20Flutter%20Júnior%20III-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Flutter%20IoT-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 Houseasy (1 ano e 4 meses)
+**Desenvolvedor Mobile Flutter Júnior III**
 - Desenvolvimento de apps para automação residencial
 - Integração com IoT (MQTT, Raspberry Pi, ESP32, Arduino)
 - Desenvolvimento de skills para Alexa
 - Experiência com sistemas embarcados
-</details>
 
-<details>
-<summary><b>🏢 Perto Network (2 meses)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Mobile%20Flutter%20Pleno-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Flutter-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 Perto Network (2 meses)
+**Desenvolvedor Mobile Flutter Pleno**
 - Responsável pela criação de projeto
 - Transferência de conhecimento em Flutter para a equipe
 - Desenvolvimento rápido e eficiente
-</details>
 
-<details>
-<summary><b>🏢 MTM Tecnologia (9 meses)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Mobile%20Android%20e%20iOS-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Android%20iOS-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 MTM Tecnologia (9 meses)
+**Desenvolvedor Mobile Android e iOS**
 - Desenvolvimento nativo Android e iOS
 - Publicação de apps nas lojas
 - Aprendizado em flavors
 - Resolução de bugs e otimizações
-</details>
 
-<details>
-<summary><b>🏢 GrappeTechnology (11 meses)</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Mobile%20Flutter%20Júnior-blue" alt="Cargo"/>
-  <img src="https://img.shields.io/badge/Tecnologias-Flutter-orange" alt="Tecnologias"/>
-</div>
-<br>
+### 🏢 GrappeTechnology (11 meses)
+**Desenvolvedor Mobile Flutter Júnior**
 - Primeira experiência com Flutter e mercado de trabalho
 - Desenvolvimento de CRM com Frappe
 - Projeto adquirido pela MTM
-</details>
-</details>
 
-<br>
+## 🌟 Diferenciais
+- Experiência com Flavors (Android, iOS, Flutter)
+- Publicação de apps nas principais lojas (App Store e Google Play)
+- Conhecimento em IoT e sistemas embarcados
+- Liderança de equipes e mentoria
+- Adaptabilidade e aprendizado rápido
+- Experiência em startups e empresas consolidadas
 
-<details>
-<summary><b>🌟 Diferenciais</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flavors-Android%20iOS%20Flutter-blue" alt="Flavors"/>
-  <img src="https://img.shields.io/badge/Publicação-App%20Store%20Google%20Play-green" alt="Publicação"/>
-  <img src="https://img.shields.io/badge/IoT-Sistemas%20Embarcados-orange" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Liderança-Gestão%20de%20Equipes-red" alt="Liderança"/>
-  <img src="https://img.shields.io/badge/Adaptabilidade-Aprendizado%20Rápido-purple" alt="Adaptabilidade"/>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary><b>📫 Contato</b></summary>
-<br>
+## 📫 Contato
 <div align="center">
   <img src="https://img.shields.io/badge/Email-absongalvao@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   <img src="https://img.shields.io/badge/Telefone-+55%2082%2099137--9696-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone"/>
   <img src="https://img.shields.io/badge/Localização-Aracaju,%20Sergipe-1DA1F2?style=for-the-badge&logo=location&logoColor=white" alt="Localização"/>
 </div>
-</details>
 
-<br>
+## 🎯 Objetivos
+- Iniciar carreira internacional
+- Morar e trabalhar na Suíça
+- Contribuir para projetos open source
+- Desenvolver soluções inovadoras
+- Compartilhar conhecimento com a comunidade
 
-<details>
-<summary><b>🎯 Objetivos</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Carreira-Internacional-blue" alt="Carreira Internacional"/>
-  <img src="https://img.shields.io/badge/Destino-Suíça-green" alt="Suíça"/>
-  <img src="https://img.shields.io/badge/Contribuição-Open%20Source-orange" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Desenvolvimento-Soluções%20Inovadoras-red" alt="Soluções Inovadoras"/>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary><b>🌍 Idiomas</b></summary>
-<br>
+## 🌍 Idiomas
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Português"/>
   <img src="https://img.shields.io/badge/Inglês-Intermediário-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Inglês"/>
   <img src="https://img.shields.io/badge/Alemão-Básico-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Alemão"/>
 </div>
-</details>
 
-<br>
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvido+com+❤️+por+Abson+Dutra+Galvão;Pai+da+Aurora+%26+Marido+da+Maria+Luiza" alt="Footer" />
