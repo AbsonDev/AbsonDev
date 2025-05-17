@@ -47,6 +47,8 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 #### 🛠️ Ferramentas
@@ -56,6 +58,9 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Easy%20Panel-FF6B6B?style=for-the-badge&logo=easypanel&logoColor=white" alt="Easy Panel"/>
   <img src="https://img.shields.io/badge/Hostinger-2E4364?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/AdMob-FF6B6B?style=for-the-badge&logo=google-ads&logoColor=white" alt="AdMob"/>
 </div>
 
 ### 📊 Estatísticas do GitHub
@@ -133,6 +138,51 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Inglês-Intermediário-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Inglês"/>
   <img src="https://img.shields.io/badge/Alemão-Básico-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Alemão"/>
 </div>
+
+### 📚 Conhecimentos Detalhados
+
+#### 📱 Desenvolvimento Mobile
+- **Flutter & Dart**
+  - Mais de 2 anos de experiência com o framework Flutter
+  - Desenvolvimento de aplicativos robustos e eficientes
+  - Profundo conhecimento da linguagem Dart
+  - Criação de código limpo e eficiente
+
+- **Gerenciamento de Estado**
+  - Experiência com GetX e MobX
+  - Uso do Provider para gerenciamento de estado
+  - Implementação de padrões de arquitetura
+
+- **Firebase**
+  - Authentication
+  - Firestore
+  - Remote Config
+  - Push Notifications
+  - Analytics
+  - Crashlytics
+
+- **Monetização & Analytics**
+  - Implementação de AdMob
+  - Configuração de Google Ads
+  - Integração com Google Analytics
+  - Estratégias de monetização
+
+- **Desenvolvimento Nativo**
+  - Conhecimento em configurações nativas
+  - Manipulação de SDKs
+  - Gestão de arquivos de configuração (pod.lock, info.plist, build.gradle, manifest)
+  - Resolução de problemas específicos de plataforma
+
+- **Publicação & Distribuição**
+  - Experiência com App Store e Play Store
+  - Criação de Flavors para White Label
+  - Gerenciamento de lojas
+  - Processos de submissão e atualização
+
+- **Qualidade & Testes**
+  - Implementação de testes unitários
+  - Garantia de qualidade do código
+  - Práticas de desenvolvimento limpo
 
 ---
 <div align="center">
