@@ -3,10 +3,10 @@
 ## 🚀 Desenvolvedor Full Stack & Mobile
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/abson-dutra-galv%C3%A3o-86740a250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/seu-github">
+  <a href="https://github.com/AbsonDev/AbsonDev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:absongalvao@gmail.com">
@@ -60,7 +60,7 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbsonDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ### 💼 Experiência Profissional
