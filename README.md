@@ -1,12 +1,6 @@
 # 👋 Olá, eu sou Abson Dutra Galvão
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Full+Stack+%26+Mobile;Pai+da+Aurora+%26+Marido+da+Maria+Luiza" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+## 🚀 Desenvolvedor Full Stack & Mobile
 
 <div align="center">
   <a href="https://linkedin.com/in/seu-linkedin">
@@ -20,36 +14,16 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=radical&layout=compact" alt="Top Languages"/>
-</div>
-
-<br>
-
-## 💻 Sobre Mim
-
-Desenvolvedor apaixonado por programação e tecnologia desde criança, inspirado pelo meu pai, um dos primeiros programadores do Brasil. Com apenas 21 anos e 5 anos de experiência em desenvolvimento de software, iniciando minha jornada aos 16 anos.
+### 💻 Sobre Mim
+Desenvolvedor apaixonado por programação e tecnologia desde criança, inspirado pelo meu pai, um dos primeiros programadores do Brasil. Com apenas 21 anos e 5 anos de experiência em desenvolvimento de software, iniciando minha jornada aos 16 anos. Atualmente, busco oportunidades internacionais para morar na Suíça, país pelo qual sou apaixonado.
 
 Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha maior inspiração e motivação para crescer profissionalmente. Juntos, enfrentamos o desafio de recomeçar em outro estado, apenas com coragem, nossa filha, 5 mil reais e um sonho. Hoje, moro em Aracaju há 1 ano, sempre buscando crescimento pessoal e profissional para proporcionar o melhor para minha família.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-### 📱 Mobile
+<details>
+<summary><b>Mobile</b></summary>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
@@ -59,8 +33,11 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
+</details>
 
-### 🎨 Frontend
+<details>
+<summary><b>Frontend</b></summary>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -69,15 +46,21 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </div>
+</details>
 
-### ⚙️ Backend
+<details>
+<summary><b>Backend</b></summary>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
+</details>
 
-### 🛠️ Ferramentas
+<details>
+<summary><b>Ferramentas</b></summary>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
@@ -85,50 +68,74 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
   <img src="https://img.shields.io/badge/Easy%20Panel-FF6B6B?style=for-the-badge&logo=easypanel&logoColor=white" alt="Easy Panel"/>
   <img src="https://img.shields.io/badge/Hostinger-2E4364?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
 </div>
+</details>
 
-## 💼 Experiência Profissional
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
 
-### 🏢 Inventione (1 ano - Atual)
+### 💼 Experiência Profissional
+
+<details>
+<summary><b>Inventione (1 ano - Atual)</b></summary>
+<br>
 **Desenvolvedor FullStack Júnior (Angular, .NET e Flutter)**
 - Liderança do departamento de desenvolvimento
 - Desenvolvimento de produtos como Filazero, CloudMidia, Filazero Food, Filazero Checkout
 - Gestão de equipe e projetos
 - Responsável por 1 desenvolvedor Júnior
+</details>
 
-### 🏢 Receba Dital (6 meses - Atual)
+<details>
+<summary><b>Receba Dital (6 meses - Atual)</b></summary>
+<br>
 **Desenvolvedor FullStack Júnior (Angular, .NET)**
 - Desenvolvimento de aplicação de cobrança
 - Sistema de notificações (email, redes sociais, SMS, push)
 - Design de projeto e modelagem de banco de dados
 - Experiência com APIs RESTful e integrações
+</details>
 
-### 🏢 Houseasy (1 ano e 4 meses)
+<details>
+<summary><b>Houseasy (1 ano e 4 meses)</b></summary>
+<br>
 **Desenvolvedor Mobile Flutter Júnior III**
 - Desenvolvimento de apps para automação residencial
 - Integração com IoT (MQTT, Raspberry Pi, ESP32, Arduino)
 - Desenvolvimento de skills para Alexa
 - Experiência com sistemas embarcados
+</details>
 
-### 🏢 Perto Network (2 meses)
+<details>
+<summary><b>Perto Network (2 meses)</b></summary>
+<br>
 **Desenvolvedor Mobile Flutter Pleno**
 - Responsável pela criação de projeto
 - Transferência de conhecimento em Flutter para a equipe
 - Desenvolvimento rápido e eficiente
+</details>
 
-### 🏢 MTM Tecnologia (9 meses)
+<details>
+<summary><b>MTM Tecnologia (9 meses)</b></summary>
+<br>
 **Desenvolvedor Mobile Android e iOS**
 - Desenvolvimento nativo Android e iOS
 - Publicação de apps nas lojas
 - Aprendizado em flavors
 - Resolução de bugs e otimizações
+</details>
 
-### 🏢 GrappeTechnology (11 meses)
+<details>
+<summary><b>GrappeTechnology (11 meses)</b></summary>
+<br>
 **Desenvolvedor Mobile Flutter Júnior**
 - Primeira experiência com Flutter e mercado de trabalho
 - Desenvolvimento de CRM com Frappe
 - Projeto adquirido pela MTM
+</details>
 
-## 🌟 Diferenciais
+### 🌟 Diferenciais
 - Experiência com Flavors (Android, iOS, Flutter)
 - Publicação de apps nas principais lojas (App Store e Google Play)
 - Conhecimento em IoT e sistemas embarcados
@@ -136,21 +143,21 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
 - Adaptabilidade e aprendizado rápido
 - Experiência em startups e empresas consolidadas
 
-## 📫 Contato
+### 📫 Contato
 <div align="center">
   <img src="https://img.shields.io/badge/Email-absongalvao@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   <img src="https://img.shields.io/badge/Telefone-+55%2082%2099137--9696-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone"/>
   <img src="https://img.shields.io/badge/Localização-Aracaju,%20Sergipe-1DA1F2?style=for-the-badge&logo=location&logoColor=white" alt="Localização"/>
 </div>
 
-## 🎯 Objetivos
+### 🎯 Objetivos
 - Iniciar carreira internacional
 - Morar e trabalhar na Suíça
 - Contribuir para projetos open source
 - Desenvolver soluções inovadoras
 - Compartilhar conhecimento com a comunidade
 
-## 🌍 Idiomas
+### 🌍 Idiomas
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Português"/>
   <img src="https://img.shields.io/badge/Inglês-Intermediário-1DA1F2?style=for-the-badge&logo=language&logoColor=white" alt="Inglês"/>
@@ -158,11 +165,6 @@ Pai orgulhoso da Aurora e casado com a maravilhosa Maria Luiza, que são minha m
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvido+com+❤️+por+Abson+Dutra+Galvão;Pai+da+Aurora+%26+Marido+da+Maria+Luiza" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/Desenvolvido%20com%20❤️%20por-Abson%20Dutra%20Galvão-FF0000?style=for-the-badge" alt="Desenvolvido com ❤️"/>
 </div> 
