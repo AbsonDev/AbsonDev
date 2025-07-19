@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abson Dutra Galvão
-
+TODO: estou pensando em fazer uma nova sessão para esse lugar
 ## 🚀 Full Stack & Mobile Developer
 
 <div align="center">
