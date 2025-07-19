@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abson Dutra Galvão
-TODO: estou pensando em fazer uma nova sessão para esse lugar
+TODO: estou pensando em fazer uma nova sessão para esse lugar seria interessante um falando das minhas experiências e empresas que trabalhei
 ## 🚀 Full Stack & Mobile Developer
 
 <div align="center">
